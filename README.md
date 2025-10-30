@@ -1,4 +1,4 @@
-#🧰 PDF-JStrip - PDF JavaScript Remover
+# 🧰 PDF-JStrip - PDF JavaScript Remover
 
 **PDF-JStrip** is a standalone utility for removing embedded JavaScript from PDF files — especially useful for Audi / VW erWin manuals that prompt for JavaScript acknowledgment and can’t open properly in most browsers or PDF viewers.
 
@@ -88,5 +88,3 @@ Use at your own risk; no warranty implied.
 
 **Gunnar Diekmann**  
 [github.com/gunnar-die](https://github.com/gunnar-die)
-
-

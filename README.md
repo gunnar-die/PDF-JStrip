@@ -14,7 +14,13 @@ It automatically scans a folder (and its subfolders), removes any JavaScript act
 - Works completely offline  
 - Available as both a **Python script** and a **standalone EXE** (no install required)
 
----
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=AaABdaaJz7Q" target="_blank">
+    <img src="https://img.youtube.com/vi/AaABdaaJz7Q/maxresdefault.jpg" alt="Watch the PDF-JS remover demo" width="600">
+  </a>
+</p>
 
 ## 📦 Download
 
